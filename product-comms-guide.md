@@ -2,8 +2,6 @@
 
 Create compelling communications based on your technical truth. Brought to you by [Open Strategy Partners](https://openstrategypartners.com/).
 
------
-
 ## Introduction: How do we write better content for technology products? 
 
 Technology products require a modular and agile approach to writing. Have you ever had a set of LEGO bricks that you played around with to create a plane, house, or skyscraper? We think about Product Communication similarly. We choose from a set of communication components to develop and shape the different Product Communications content you need: blogs, sales enablement assets, landing pages, and more.
@@ -11,15 +9,9 @@ Technology products require a modular and agile approach to writing. Have you ev
 Product Communications make clear your product’s value to technical and business audiences. In our approach, you should create communications assets from factual components based on a solid technical and strategic foundation, your “technical truth.”
 
 - **Communications Assets** include webpages like product-, service- or persona pages, Value Maps, Product Data Sheets, and more.
-- **Product Communication Components** include micro-copy, like taglines and CTAs, as well as longer text elements, like [positioning statements](#c4336) and [Value Cases](#c4342). (More on these later in this document.)
+- **Product Communication Components** include micro-copy, like taglines and CTAs, as well as longer text elements, like [positioning statements](#positioning-statements) and [Value Cases](#value-cases). (More on these later in this document.)
 
----
-
-> ### This guide and our website are living documents
-> 
-> We update this guide and our website from time to time as we learn and gain more experience. [Get in touch](https://openstrategypartners.com/contact/) and let > us know if you would like to be notified of updates to our content.
-
----
+> **This guide is a living document**, which we update from time to time as we learn and gain more experience. To collaborate on the guide, create an issue in this repo or open a pull request.
 
 ## Before we start, some technical communication values to write by
 
@@ -39,11 +31,10 @@ Product Communications make clear your product’s value to technical and busine
 - **Avoid hyperbole.** It totally, massively, always helps, too.
 - **Use (and explain) technical terminology accurately** to build trust.
 
----
 
 ## Our Product Communication Principles
 
-The Product Communications Framework follows our [Writing and Editing Guide](https://openstrategypartners.com/osp-writing-editing-guide/).
+The Product Communications Framework follows our [Writing and Editing Guide](https://github.com/open-strategy-partners/writing-guide).
 
 ### The best (most effective) product communications are:
 1. **Tight:** *Every word takes up precious real estate. Make them count.*
@@ -55,13 +46,146 @@ The Product Communications Framework follows our [Writing and Editing Guide](htt
 
 All the Value Map components are also components we use in Product Communications. The Value Map process produces the communication components you need to create content assets for your B2B product or service. Use the Value Map as your single source of truth to build communication assets, following our communication values and principles.
 
-To learn more about the intersection of Product Communications and the OSP Value Map, see [Product Communications and the Value Map](#c4333) in this guide.
+To learn more about the intersection of Product Communications and the OSP Value Map, see [Product Communications and the Value Map](#product-comms) in this guide.
 
 ## Tips for effective content writing for your tech
 
 “Good” Product Communications applies these principles at every scope, from the smallest (e.g., a tagline or caption) to the largest (e.g., whole pages, websites, or campaigns).
 
+### **\#1: Tight**
 
+*“The goal isn’t brevity for its own sake but clarity” \- Frank Conroy.* 
+
+*Every word takes up precious real estate. Make them count.* 
+
+Interesting verbs: Replace “has,” “does,” “gives,” “stays,” or “keeps” \+ a noun with a more precise, more active verb. 
+
+* Before: TYPO3 gives marketers the tools they need to simplify the many decisions they have to make on a daily basis.  
+* After: TYPO3’s tools simplify your daily decisions
+
+What to cut: “With” or “of” or “that,” go see if you can tighten that up
+
+* Before: A CMS with a developer focus  
+* After: A developer-focused CMS
+
+Don’t use ten words if you can use five.
+
+* Before: TYPO3 puts the support, flexibility, and features you need at your fingertips so you can start high-value projects quickly.    
+* After: Launch projects quickly with TYPO3’s flexible Core and 24/7 support. 
+
+### **\#2: Specific**
+
+*Use the most precise version of a word or phrase. Don’t generalize or be vague.*
+
+Highlight the unique and special aspects of (or relevant to) a product, service, company, or persona.
+
+* Before: TYPO3 CMS was designed to support enterprises with the effective tools, systems, and frameworks that they need.   
+* After: TYPO3 CMS supports enterprises with a User Access Management system, 24/7 support teams, and centralized Digital Asset Management. 
+
+Less fill: Eradicate filler adjectives popular in tech-speak, like “efficient,” “innovative,” and “streamlined.” 
+
+* Before: Get streamlined workflows that are customizable for editors’ and publishers’ needs.   
+* After: Customize workflows to match your internal editing and approval process.
+
+### **\#3: Accurate and true**
+
+*Make factual statements supported by evidence.*
+
+*Don’t make claims you can’t back up.*
+
+Features are better than meaningless claims: Don’t use phrases like “the best” or competitive comparisons that cannot be substantiated. 
+
+* Before: TYPO3’s editing tools are better than other CMSs.   
+* After: TYPO3’s structured content and flexible workflows help editors tick off their task list. 
+
+Back up your claims with evidence. 
+
+* Before: TYPO3 has best-in-class security features.   
+* After: TYPO3 was ranked first among open source CMSs in addressing vulnerabilities by SecurityRankerTM. 
+
+### **\#4: Clean and Consistent** 
+
+*Grammar, spelling, style, and tone should be professional and consistent with the client’s voice and tone.* 
+
+Get help: Use the available tools to double-check grammar and spelling issues. Helpful tools include your computer operating system, Google Docs, Microsoft Word, [LanguageTool](https://languagetool.org/), [Grammarly](https://grammarly.com/), or [DeepL Write](https://www.deepl.com/write).
+
+Use American spelling (OSP default, varies by client, taste, and location\!)
+
+* Before: Choose your favourite colour scheme.  
+* After: Choose your favorite color scheme. 
+
+Favor universal clarity over regional language or idioms.
+
+* Before: Some managers can’t see the wood for the trees  
+* After:  Some managers can’t see beyond their daily tasks. 
+
+Write right: Adapt tone and style to customer, situation, and context. Different people and companies address the world with different words. OSP creates content that our clients are happy to put their names to.
+
+For example, striking the right balance between stuffy, formal language and too-casual language that sounds more conversational than written.
+
+* Before: TYPO3 is really great for developers.   
+* After: TYPO3 is ideal for developers.   
+* Before:  Review testimonies from our satisfied customers.  
+* After: Hear from our satisfied customers. 
+
+No FUD (Fear, Uncertainty, Doubt). No negative copy. Rather than criticize competitors, frame the challenges you solve for your clients—and highlight how you do it well.
+
+* Before: Many content management systems come with a high risk of security vulnerabilities. TYPO3 keeps your installation protected with advanced security practices upheld by a dedicated team, a great developer experience, and a community of 500+ contributors to boot.  
+* After: Keeping your website secure should always be top of mind. TYPO3 has the lowest number of vulnerabilities among enterprise CMSs, as rated by Security Management. 
+
+### **\#5: Compelling**
+
+*Tell stories. Use words, verbs, rhythm, and language that resonate.*
+
+Use exciting verbs and nouns. [OneLook Thesaurus](https://onelook.com/thesaurus) is a great resource. 
+
+* Before: TYPO3 helps agencies create digital value.   
+* After: Agencies thrive on TYPO3
+
+Use direct address whenever possible
+
+* Before: A strong, extendable core that’s community-driven  
+* After: Install TYPO3 Core and extend it as you go. 
+
+Play with language: Try alliterations, varying rhythms, and metaphors—anything that grabs attention. 
+
+* Example Article Headers Before:  
+  * How Open Social got its start  
+  * The Open Social feature set focuses on community  
+  * The future of Open Social  
+* Example Article Headers After:  
+  * Open Social origin story  
+  * Features focused on community  
+  * The (funded) future of Open Social
+
+Borrow effective syntax and sentence structure from examples around the web:
+
+* Why not turn “Marketing smarts for big ideas.”  
+* Into “Security teams for peace of mind.”?
+
+Shout it out: When in doubt, read your text aloud to find the right rhythms.
+
+* Before: Our CMS is secure, scalable, and fast.  
+* After:  Our CMS is fast, secure, and scalable. 
+
+### **\#6: Functional**
+
+*A text has a job to do. Make sure it’s doing it.*
+
+Product Communications is functional writing. Everything we write has a purpose and a goal. 
+
+A product page shows your site visitor the benefits of adopting your offering, the challenges it helps them with, and how it solves those challenges. Furthermore, it needs clear calls-to-action or calls-to-value, snappy headers and taglines, pricing information and options, etc. 
+
+A blog post about some aspect of the same product or service contains different elements. Compared to a product page, a blog may include (for example) anecdotes, tell a story, or explain the context of your solution that led you to create it. 
+
+A tagline is a catchy summary representing your brand character, designed to attract the reader’s attention.
+
+Be aware of what kind of asset you are creating and what components it needs:
+
+* Each of those components is there for a reason and has a specific job to do.  
+* Follow the best practices outlined in this guide for each.   
+* Keep a sharp eye out for deviations from the purpose of your asset.  
+* Stay focused, eradicate the irrelevant.
 
 
 
