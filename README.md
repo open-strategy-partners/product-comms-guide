@@ -1,10 +1,8 @@
 # Product Communication Guide
 
-Learn our modular approach to product communications — components to build content assets based on your technical truth.
+Learn our modular approach to product communications — components to build content assets based on your technical truth. Brought to you by Open Strategy Partners.
 
-Brought to you by Open Strategy Partners.
-
-[Teach me product comms!](https://github.com/open-strategy-partners/product-comms-guide/blob/main/product-comms-guide.md)
+🙋‍♀️ [Teach me product comms!](https://github.com/open-strategy-partners/product-comms-guide/blob/main/product-comms-guide.md)
 
 ## Who is this for?
 
