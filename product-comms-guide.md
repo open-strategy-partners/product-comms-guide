@@ -428,7 +428,7 @@ These broader categories summarize the product’s features at a level that more
 * Secure, Performant, Scalable  
 * Smart Content Management
 
-Example Feature Categories from the OSP Value Map: 
+**Example Feature Categories from the OSP Value Map:** 
 
 * Better Communication Strategy  
 * Richer Product Communications Faster  
@@ -441,7 +441,7 @@ Example Feature Categories from the OSP Value Map:
 
 The benefit statement is what gives value cases their magic. It goes beyond the solution statement to demonstrate the solution’s value in measurable terms. Try to be concrete and use evidence where possible. For example, “X saved me seven clicks or 30 min of developer time.”
 
-Definition
+**Definition**
 
 * What is the result or outcome of solving the challenge using the solution above?  
   * Better X, faster Y, easier Z.  
@@ -453,7 +453,7 @@ Definition
   * Increase conversions?  
   * More energy efficient? 
 
-Keywords
+**Keywords**
 
 * Achieve \[a thing, outcome\]  
 * Gain efficiency by \[X\]  
@@ -482,7 +482,7 @@ Challenges are one of three elements that comprise [Value Cases](https://openstr
 
 Definition: “needs,” “problems,” and “challenges” are synonymous for this purpose
 
-Example Challenges
+**Example Challenges**
 
 * Complexity within your organization  
 * Difficult tasks  
@@ -490,7 +490,7 @@ Example Challenges
 * The desired state isn’t fulfilled or not easily met.  
 * Result, process, or criteria needed
 
-Example Challenge Keywords
+**Example Challenge Keywords**
 
 * Chaos  
 * Inefficiency  
@@ -512,7 +512,7 @@ Example Challenge Keywords
 * X presents a business risk or technical risk  
 * Slow, late, delayed, repetitious
 
-Examples from Feature Area Value Cases
+**Examples from Feature Area Value Cases**
 
 * *Authoring Experience:* When publishing content across multiple channels and in multiple languages, any technical bottleneck will affect your editors’ ability to produce good content efficiently.  
 * *Multisite*: In many popular content management systems, serving many websites and domains will create chaotic and inefficient installations.  
@@ -532,25 +532,25 @@ At the Feature Area level, the solution statement boils up the features within i
 
 At the Feature Category level, the solution statement boils up all the features represented within that Feature Category. 
 
-Definition 
+**Definition** 
 
 * How is Technology X (TYPO3) implemented to solve Problem Y?  
 * How do we solve the challenge?   
 * What (technical or other) group of features, functionalities, processes, configurations, integrations, or extensions helps solve the challenge or need?
 
-Keywords
+**Keywords**
 
 * Technology, process, system (e.g., TYPO3 CMS, extension, package, distro, integration)  
   * … Is, has, uses  
   * … Does, provides, offers  
   * … Helps, enables, unlocks
 
-Example of Solutions at the Feature Category Level
+**Example of Solutions at the Feature Category Level**
 
 * *Smart Content Management:* TYPO3 provides a comprehensive content-creation and \-management platform with outstanding content workflow support.  
 * *Multisite, Multilingual:* TYPO3’s powerful and intuitive multisite features support large international web projects with translation workflows and multilingual content structures. Integrate with translation management systems and manage separate translation workflows for each language.
 
-Examples of Solutions at the Feature Area Level
+**Examples of Solutions at the Feature Area Level**
 
 * *Authoring Experience:* TYPO3 is a centralized, easy-to-use platform for content publication. With role-based access and streamlined production and translation workflows, you can maintain quality and production velocity while publishing in multiple languages and on multiple sites and channels.  
 * *Multisite:* TYPO3 offers efficient tools for managing multiple websites and domains in one place and versatile options for sharing content and configuration between them.  
@@ -559,35 +559,35 @@ Examples of Solutions at the Feature Area Level
 
 ### **Value Cases**
 
-What is a Value Case? 
+**What is a Value Case?**
 
 Value cases combine three elements—Challenges, Solutions, and Benefits addressed by the product. Together, they make a fully fleshed-out argument for how and why a product meets given business needs (also making them typically the longest blocks of text on a product page).
 
-* Benefit: This is all about WiiFM (What’s in it for me). How will adopting your product or service transform your reader’s day, life, or business? In many formats, we lead with the Benefit, painting a picture for our readers of what life would be like if they adopted our wonderful product or service.  
-* Challenge: The reader identifies themself as your target audience when they recognize the challenges they know from their work and day-to-day situation. Here, you show empathy for your reader (you understand their problems and needs) and confirm the hopes you sparked in them with the Benefit.  
-* Solution: Tell your reader how you and your offering with solve the Challenge(s) they are facing and deliver them to the transformation you promised in the Benefit.
+* **Benefit:** This is all about WiiFM (What’s in it for me). How will adopting your product or service transform your reader’s day, life, or business? In many formats, we lead with the Benefit, painting a picture for our readers of what life would be like if they adopted our wonderful product or service.  
+* **Challenge:** The reader identifies themself as your target audience when they recognize the challenges they know from their work and day-to-day situation. Here, you show empathy for your reader (you understand their problems and needs) and confirm the hopes you sparked in them with the Benefit.  
+* **Solution:** Tell your reader how you and your offering with solve the Challenge(s) they are facing and deliver them to the transformation you promised in the Benefit.
 
-Value Case Examples
+**Value Case Examples**
 
 Here are three of the Value Cases that we use to describe aspects of the OSP Value Map:
 
-Accelerate consistent, fact-based communications that drive growth. *\[Benefit\]* Enable all stakeholders to communicate about your product consistently, accurately, and compellingly. *\[Challenge\]* To create a better communication strategy, you need to capture the value of your products in your customers’ eyes, what sets you apart from your competition, and plan the messaging to sway new customers. *\[Solution\]* Pour your collective knowledge, experience, and expertise into the OSP Value Map structures and methodology to rapidly ramp up your professional communications operations.
+**Accelerate consistent, fact-based communications that drive growth.** *\[Benefit\]* Enable all stakeholders to communicate about your product consistently, accurately, and compellingly. *\[Challenge\]* To create a better communication strategy, you need to capture the value of your products in your customers’ eyes, what sets you apart from your competition, and plan the messaging to sway new customers. *\[Solution\]* Pour your collective knowledge, experience, and expertise into the OSP Value Map structures and methodology to rapidly ramp up your professional communications operations.
 
-Tame the Complexity of Communicating about your Complex Product. *\[Benefit\]* Increase the volume and quality of content published, plus increase the autonomy and mastery of your authoring teams. *\[Challenge\]* Technology is complex. Communicating and writing about it is even more complicated, and your communication strategy is only as strong as its execution. *\[Solution\]* Accelerate your asset creation and approvals by combining technical truth with reliable writing and editing processes.
+**Tame the Complexity of Communicating about your Complex Product.** *\[Benefit\]* Increase the volume and quality of content published, plus increase the autonomy and mastery of your authoring teams. *\[Challenge\]* Technology is complex. Communicating and writing about it is even more complicated, and your communication strategy is only as strong as its execution. *\[Solution\]* Accelerate your asset creation and approvals by combining technical truth with reliable writing and editing processes.
 
-Unified product data accelerates asynchronous collaboration. *\[Benefit\]* Empower team members—current and new—to gain or refresh product knowledge quickly and efficiently so they can start delivering value, making sales, or contributing sooner. *\[Challenge\]* Siloed information stored in multiple systems blocks onboarding, remote collaboration, and sales. Teams must act without the whole picture or wait for time zones and calendars to align before they can get up to speed. *\[Solution\]* A living library of your product’s truth — technical information, target personas, published assets, etc. — enables self-service research and preparation.
+**Unified product data accelerates asynchronous collaboration.** *\[Benefit\]* Empower team members—current and new—to gain or refresh product knowledge quickly and efficiently so they can start delivering value, making sales, or contributing sooner. *\[Challenge\]* Siloed information stored in multiple systems blocks onboarding, remote collaboration, and sales. Teams must act without the whole picture or wait for time zones and calendars to align before they can get up to speed. *\[Solution\]* A living library of your product’s truth — technical information, target personas, published assets, etc. — enables self-service research and preparation.
 
-Value Case Best Practices
+**Value Case Best Practices**
 
 Write your challenge, solution, and benefit statements separately (on three individual lines) before combining or reordering them. They should correspond directly with one another. In other words, the solution should address the challenge, and the benefit should result from applying the solution. 
 
 ### **Call-to-Action (CTA)**
 
-What is a CTA, and what are they for? 
+**What is a CTA, and what are they for?**
 
 A call-to-action is a concise (2-8 word) phrase directing the reader to do a specific thing. The reader can do that by clicking a link or button in the UI. A CTA may guide your users toward the next steps. Some people call these statements “direct CTAs.”
 
-CTA Examples 
+**CTA Examples**
 
 * Sign up  
 * Book a demo today  
@@ -600,7 +600,7 @@ CTA Examples
 * Buy now  
 * Get yours
 
-CTA Best Practices
+**CTA Best Practices**
 
 * Cut what you can cut without changing the message.   
 * Use direct address.   
@@ -610,11 +610,11 @@ CTA Best Practices
 
 ### **Call-to-Value (CTV)**
 
-What is a CTV, and what are they for?
+**What is a CTV, and what are they for?**
 
 A call-to-value summarizes the benefits or paints an aspirational vision of the result of taking a given action—clicking a link or button—rather than telling us to “do the thing.” They can be used standalone and as context for a CTA, right above or below. Some people call these statements “indirect CTAs.”
 
-CTV Examples
+**CTV Examples**
 
 * Grow your audience  
 * Extend the life and value delivery of your website.  
@@ -624,9 +624,9 @@ CTV Examples
 * Take the first step on your new career path.  
 * Get started with free tools, and upgrade as you grow.
 
-CTV Best Practices
+**CTV Best Practices**
 
-Address the audience’s needs, aspirations, and desires:
+**Address the audience’s needs**, aspirations, and desires:
 
 * Why should I do the thing you want me to?  
 * What’s in it for me? (WiiFM)  
