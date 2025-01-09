@@ -2,6 +2,26 @@
 
 Create compelling communications based on your technical truth. Brought to you by [Open Strategy Partners](https://openstrategypartners.com/).
 
+---
+
+**Contents**
+
+* [Introduction: How do we write better content for technology products?](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4228)  
+* [Before we start, some technical communication values to write by](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4359)  
+* [Our product communication principles](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4316)  
+* [Tips for effective content writing for your tech](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4330)  
+* [How do I know what to write? The OSP Value Map](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4317)  
+* [Definitions, best practices, and examples: product communication components](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4318)  
+* [Taglines: 2-8 word headlines](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4319)  
+* [Brand and Product Positioning Statements](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4320)  
+* [Other Positioning Statements](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4321)  
+* [Features, Feature Areas, Feature Categories](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4322)  
+* [Benefits](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4323)  
+* [Challenges](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4324)  
+* [Solutions](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4325)  
+* [Value Cases](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4326)  
+* [CTAs and CTVs](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4327)
+
 ## Introduction: How do we write better content for technology products? 
 
 Technology products require a modular and agile approach to writing. Have you ever had a set of LEGO bricks that you played around with to create a plane, house, or skyscraper? We think about Product Communication similarly. We choose from a set of communication components to develop and shape the different Product Communications content you need: blogs, sales enablement assets, landing pages, and more.
