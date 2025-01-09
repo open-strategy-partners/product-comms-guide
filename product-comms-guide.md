@@ -15,14 +15,20 @@ Product Communications make clear your product’s value to technical and busine
 
 ## Before we start, some technical communication values to write by
 
+<img src="https://openstrategypartners.com/_assets/processed/mz1PxRfgXaZEDZD_k_quAA04HXAZo3bLqCUFNqMc8LU/q:85/c:1536:510.46706586826:fp:0.5:0.49850299401198/rt:force/w:600/h:200/fn:Y3NtX0VNUEFUSFlfM3gxX2M3MzM3YTlkMDA:t/cb:3d3f982e24ff824b3a256d527e299c99cc0f491e/bG9jYWw6L2ZpbGVhZG1pbi9CaWxkZXIvcmVzb3VyY2VzL0VNUEFUSFlfM3gxLnBuZw" alt="empathy" align="right"/>
+
 ### Empathy
 - **Put yourself in your audience’s shoes** to understand their challenges, needs, and context.
 - **Use language that will resonate** with your audience, e.g., business terms for business readers and technical terms for developers.
 - **Pitch your writing to your audience, but help others learn.** No one will hold against you explaining jargon and technical terminology, and you will help people new to your topic get up to speed.
 
+<img src="https://openstrategypartners.com/_assets/processed/uNbHUPRRCwdmIPDhy533wr2iyuujCmvWLBiJC0FBI7s/q:85/c:3600:1200:fp:0.5:0.5/rt:force/w:500/h:167/fn:Y3NtX0NMQVJJVFlfM3gxXzAxZjYzNGYyYTM:t/cb:5a9726807d533ca12d7abc68c64a8114aa6a460d/bG9jYWw6L2ZpbGVhZG1pbi9CaWxkZXIvcmVzb3VyY2VzL0NMQVJJVFlfM3gxLnBuZw" alt="clarity" align="right"/>
+
 ### Clarity
 - **Translate complicated and abstract technology concepts** into clear, compelling product communication.
-- **Clearly structured writing and assets are more easily consumed** and, therefore, more effective. See our Writing and Editing Guide for more on formatting: headers, lists, avoiding walls of text, etc.  
+- **Clearly structured writing and assets are more easily consumed** and, therefore, more effective. See our Writing and Editing Guide for more on formatting: headers, lists, avoiding walls of text, etc.
+
+<img src="https://openstrategypartners.com/_assets/processed/paKldpeF2de_JcsW_d5vxgYFoBDQID6fW1gq5xD4KJ4/q:85/c:1473.024:510.46706586826:fp:0.5195:0.49850299401198/rt:force/w:500/h:173/fn:Y3NtX1RSVVNUXzN4MV9iMzQzODA2ZDRl:t/cb:4905c1ecae0c15cc1b20737ac4cd3989acd4a79b/bG9jYWw6L2ZpbGVhZG1pbi9CaWxkZXIvcmVzb3VyY2VzL1RSVVNUXzN4MS5wbmc" alt="trust" align="right"/>
 
 ### Trust
 - **Empathy, clarity, and accuracy help build trust.**
@@ -220,7 +226,9 @@ You get a comprehensive inventory of the following modular components and entiti
     - Solution
 - **Feature**
 
-Read more about the Open Strategy Partners Value Map and how it helps you [align your communications with your vision, strategy, and technical truth](https://openstrategypartners.com/the-osp-value-map/).
+<img src="https://openstrategypartners.com/_assets/processed/e_ShQ5IRyTs1FcXwbmMomIanCN-5HsDV0ZyAJRouNBo/q:85/c:3948:2451:fp:0.5:0.5/rt:force/w:840/h:522/fn:Y3NtX1ZNXzJ4XzIwMjMuRmViLjEwX3RyYW5zcGFyZW50XzU0ZmY5NTdlMWQ:t/cb:aef4e9e0d1cd5d69c92861a0f2b61cb6d79e7182/bG9jYWw6L2ZpbGVhZG1pbi9CaWxkZXIvdmFsdWVfbWFwL1ZNXzJ4XzIwMjMuRmViLjEwX3RyYW5zcGFyZW50LnBuZw" alt="OSP Value Map diagram"/>
+
+**Read more about the Open Strategy Partners Value Map** and how it helps you [align your communications with your vision, strategy, and technical truth](https://openstrategypartners.com/the-osp-value-map/).
 
 ## Definitions, best practices, and examples: product communication components
 
@@ -434,6 +442,8 @@ These broader categories summarize the product’s features at a level that more
 * Richer Product Communications Faster  
 * Deep, Wide, Technical Foundation  
 * Better Collaboration, Sales, and Onboarding
+
+<img src="https://openstrategypartners.com/_assets/processed/wLhwHFvhaiJ4vjZSFGkTJ5ktmjaOKZ-Z7ofFKeMqjgQ/q:85/c:2016:1290:fp:0.5:0.5/rt:force/w:840/h:538/fn:Y3NtX0ZDX3dpdGhfVkNfdGl0bGVfZjRkODM1MmI2Yw:t/cb:ea6c4cc092756127babc4d40d0069b98e607c37b/bG9jYWw6L2ZpbGVhZG1pbi9CaWxkZXIvYmxvZy8yMDIzL0ZDX3dpdGhfVkNfdGl0bGUucG5n" alt="Feature categories from the OSP Value Map of the Value Map"/>
 
 ### **Benefits** 
 
