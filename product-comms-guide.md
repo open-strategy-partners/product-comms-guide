@@ -6,23 +6,23 @@ Create compelling communications based on your technical truth. Brought to you b
 
 **Contents**
 
-* [Introduction: How do we write better content for technology products?](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4228)  
-* [Before we start, some technical communication values to write by](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4359)  
-* [Our product communication principles](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4316)  
-* [Tips for effective content writing for your tech](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4330)  
-* [How do I know what to write? The OSP Value Map](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4317)  
-* [Definitions, best practices, and examples: product communication components](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4318)  
-* [Taglines: 2-8 word headlines](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4319)  
-* [Brand and Product Positioning Statements](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4320)  
-* [Other Positioning Statements](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4321)  
-* [Features, Feature Areas, Feature Categories](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4322)  
-* [Benefits](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4323)  
-* [Challenges](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4324)  
-* [Solutions](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4325)  
-* [Value Cases](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4326)  
-* [CTAs and CTVs](https://openstrategypartners.com/resources/osp-product-communications-framework-and-guide/#c4327)
+* [Introduction: How do we write better content for technology products?](#intro)  
+* [Before we start, some technical communication values to write by](#before)  
+* [Our product communication principles](#principles)  
+* [Tips for effective content writing for your tech](tips)  
+* [How do I know what to write? The OSP Value Map](#know)  
+* [Definitions, best practices, and examples: product communication components](#defs)  
+* [Taglines: 2-8 word headlines](#taglines)  
+* [Brand and Product Positioning Statements](#brand)  
+* [Other Positioning Statements](#other)  
+* [Features, Feature Areas, Feature Categories](#features)  
+* [Benefits](#benefits)  
+* [Challenges](#challenges)  
+* [Solutions](#solutions)  
+* [Value Cases](#value-cases)  
+* [CTAs and CTVs](#cta)
 
-## Introduction: How do we write better content for technology products? 
+## <a id="intro" />Introduction: How do we write better content for technology products? 
 
 Technology products require a modular and agile approach to writing. Have you ever had a set of LEGO bricks that you played around with to create a plane, house, or skyscraper? We think about Product Communication similarly. We choose from a set of communication components to develop and shape the different Product Communications content you need: blogs, sales enablement assets, landing pages, and more.
 
@@ -33,7 +33,7 @@ Product Communications make clear your product’s value to technical and busine
 
 > **This guide is a living document**, which we update from time to time as we learn and gain more experience. To collaborate on the guide, create an issue in this repo or open a pull request.
 
-## Before we start, some technical communication values to write by
+## <a id="before" />Before we start, some technical communication values to write by
 
 <img src="https://openstrategypartners.com/_assets/processed/mz1PxRfgXaZEDZD_k_quAA04HXAZo3bLqCUFNqMc8LU/q:85/c:1536:510.46706586826:fp:0.5:0.49850299401198/rt:force/w:600/h:200/fn:Y3NtX0VNUEFUSFlfM3gxX2M3MzM3YTlkMDA:t/cb:3d3f982e24ff824b3a256d527e299c99cc0f491e/bG9jYWw6L2ZpbGVhZG1pbi9CaWxkZXIvcmVzb3VyY2VzL0VNUEFUSFlfM3gxLnBuZw" alt="empathy" align="right"/>
 
@@ -58,7 +58,7 @@ Product Communications make clear your product’s value to technical and busine
 - **Use (and explain) technical terminology accurately** to build trust.
 
 
-## Our Product Communication Principles
+## <a id="principles" />Our Product Communication Principles
 
 The Product Communications Framework follows our [Writing and Editing Guide](https://github.com/open-strategy-partners/writing-guide).
 
@@ -74,7 +74,7 @@ All the Value Map components are also components we use in Product Communication
 
 To learn more about the intersection of Product Communications and the OSP Value Map, see [Product Communications and the Value Map](#product-comms) in this guide.
 
-## Tips for effective content writing for your tech
+## <a id="tips" />Tips for effective content writing for your tech
 
 “Good” Product Communications applies these principles at every scope, from the smallest (e.g., a tagline or caption) to the largest (e.g., whole pages, websites, or campaigns).
 
@@ -213,8 +213,8 @@ Product Communications is functional writing. Everything we write has a purpose 
 * Keep a sharp eye out for deviations from the purpose of your asset.  
 * Stay focused, eradicate the irrelevant.
 
-## Product communications and the OSP Value Map
-The OSP Value Map is a methodology and toolkit we use for content ideation and insight generation. Once yours is up and running, you'll never be stuck for content ideas again.
+## <a id="know" />How do I know what to write? Product communications and the OSP Value Map
+The Open Strategy Partners Value Map is a methodology and toolkit we use for content ideation and insight generation. Once yours is up and running, you'll never be stuck for content ideas again!
 
 We typically start most engagements with a Value Map (VM) of the client product or service we are working on. To create your VM, together with you and your stakeholders, we:
 1. Conduct a deep technical analysis of your offering.
@@ -250,9 +250,9 @@ You get a comprehensive inventory of the following modular components and entiti
 
 **Read more about the Open Strategy Partners Value Map** and how it helps you [align your communications with your vision, strategy, and technical truth](https://openstrategypartners.com/the-osp-value-map/).
 
-## Definitions, best practices, and examples: product communication components
+## <a id="defs" />Definitions, best practices, and examples: product communication components
 
-### Taglines: 2-8 Word Headlines
+### <a id="taglines" />Taglines: 2-8 Word Headlines
 #### What is a tagline, and what is its purpose?
 Taglines are short sentences or fragments, typically found at the top of the page or as section headers. Their purpose is to grab attention while introducing the content that follows. They are often the most verbally playful and brand-driven statements.
 
@@ -269,7 +269,7 @@ Taglines are short sentences or fragments, typically found at the top of the pag
 * Make taglines clever, attention-grabbing, and pop out at you.  
 * Look for opportunities for interplay between tagline, graphics, and the context of what’s around them.
 
-## Brand and Product Positioning Statements
+## <a id="brand" />Brand and Product Positioning Statements
 
 ### What is a positioning statement?
 #### ***What is a Positioning Statement and its purpose?*** 
@@ -308,7 +308,7 @@ Positioning Statement Best Practices:
 * Try swapping another tech product or service into the statement—if it’s easily substituted, drill down into more detail or specificity.   
 * As a workflow process, try filling in keywords for each square bracket item; once that is completed, try working on compelling and colorful copy. 
 
-### **Other Positioning Statements**
+### <a id="other" />**Other Positioning Statements**
 
 #### ***Positioning Statements for Feature Areas or Feature Categories***
 
@@ -611,7 +611,7 @@ Here are three of the Value Cases that we use to describe aspects of the OSP Val
 
 Write your challenge, solution, and benefit statements separately (on three individual lines) before combining or reordering them. They should correspond directly with one another. In other words, the solution should address the challenge, and the benefit should result from applying the solution. 
 
-### **Call-to-Action (CTA)**
+### <a id="cta" />**Call-to-Action (CTA)**
 
 **What is a CTA, and what are they for?**
 
